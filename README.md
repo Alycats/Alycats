@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Aly 🐈
-### I'm currently learning html, css, and javascript 🌱
+### I'm currently a 2nd year Uni Student 🌱
 <!--
 **Alycats/Alycats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
