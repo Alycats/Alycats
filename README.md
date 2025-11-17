@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Aly 🐈
-### I'm currently a 3nd year Uni Student 🌱
+### I'm currently a 3rd year Uni Student 🌱
 <!--
 **Alycats/Alycats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
